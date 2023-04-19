@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Norawit Paha</h1>
-<h3 align="center">I'm a student of songkla university./h3>
+<h3 align="center">I'm a student of songkla university.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dewsiro000&label=Profile%20views&color=0e75b6&style=flat" alt="dewsiro000" /> </p>
 
