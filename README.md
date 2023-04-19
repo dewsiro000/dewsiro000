@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dewsiro000&label=Profile%20views&color=0e75b6&style=flat" alt="dewsiro000" /> </p>
 
-<p align="left">
+<h4 align="left">
    -👀 I’m interested in WebShoping & Travel.
- </p>
+ </h4>
  <p align="left">
    -🌱 I’m currently learning ReactJs and NextJs. 
  </p>
