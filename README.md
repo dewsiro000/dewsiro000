@@ -4,14 +4,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dewsiro000&label=Profile%20views&color=0e75b6&style=flat" alt="dewsiro000" /> </p>
 
-- 👨‍💻 All of my projects are available at […](…)
-
-- 📝 I regularly write articles on **React,Nextjs**
-
-- 📄 Know about my experiences [….](….)
-
 <p align="left">
-</p>
+   -👀 I’m interested in WebShoping & Travel.
+ </p>
+ <p align="left">
+   -🌱 I’m currently learning ReactJs and NextJs. 
+ </p>
+ <p align="left">
+ -📝 I regularly write articles on **React,Nextjs**
+ </p>  
+ <p align="left"> 
+- 💞️  
+ </p>  
+ <p align="left">  
+- 📫 How to reach me FB : D'ew Norawit.
+ </p>  
+ <p align="left">  
+- 👨‍💻 All of my projects are available at 
+ </p>  
+ <p align="left">  
+- 📄 Know about my experiences 
+ </p>
+ 
   
 <h3 align="left">Languages and Tools:</h3>
  
