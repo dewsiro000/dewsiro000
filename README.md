@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=6010110455&show_icons=true&count_private=true&theme=dracula" alt="mildronize" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dewsiro000&show_icons=true&count_private=true&theme=dracula" alt="mildronize" />
 </p>
