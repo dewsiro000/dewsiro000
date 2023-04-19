@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at […](…)
 
-- 📝 I regularly write articles on [React Nextjs](React Nextjs)
+- 📝 I regularly write articles on React,Nextjs
 
 - 📫 How to reach me **Norawit1267@gmail.com**
 
