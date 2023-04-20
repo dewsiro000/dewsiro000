@@ -14,7 +14,7 @@
  -📝 I regularly write articles on **React,Nextjs**
  </p>  
  <p align="left"> 
-- 💞️  
+- 💞️  love reading.
  </p>  
  <p align="left">  
 - 📫 How to reach me FB : D'ew Norawit.
