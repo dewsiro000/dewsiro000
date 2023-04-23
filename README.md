@@ -62,7 +62,7 @@
 
 </a>
 </div>
-                                                                                                                                                                                                                                                                                                                                    <img src="https://crafted.pl/uploads/zdjprofil/monthly_2018_12/e593ab0589d5f1b389e4dfbcce2bce20.thumb.gif.ec9ac8d8903556997c4dcbf97b2b0cfa.gif" alt="BMO" align="right" width="270" height="300" />    
+                                                                                                                                                                                                                                                                                                                                    <img src="https://crafted.pl/uploads/zdjprofil/monthly_2018_12/e593ab0589d5f1b389e4dfbcce2bce20.thumb.gif.ec9ac8d8903556997c4dcbf97b2b0cfa.gif" alt="BMO" align="right" width="240" height="300" />    
 </br>
 
 <div align="center">
