@@ -27,4 +27,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-        GH_PAT: ${{ secrets.DEPENDABOT_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
