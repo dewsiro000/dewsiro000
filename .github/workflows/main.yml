@@ -1,10 +1,5 @@
 name: Generate Datas
 
-permissions:
-  pull-requests: write
-  issues: write
-  repository-projects: write
-
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
@@ -27,4 +22,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
