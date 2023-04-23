@@ -63,4 +63,6 @@
 </a>
 </div>
 
+![snake gif](https://github.com/dewsiro000/dewsiro000/blob/output/github-contribution-grid-snake.gif)
+
 
