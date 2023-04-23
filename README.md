@@ -43,19 +43,20 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewsiro000&theme=tokyonight)
-
-<!--    <p align="left"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dewsiro000&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>  
-      </p>
-    -->
- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dewsiro000&theme=dracula&count_private=true&include_all_commits=true&show_icons=true" />
+<!-- <details> -->
+<p align="center">
+<a href="https://github.com/dewsiro000">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dewsiro000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dewsiro000&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
+<!-- </details> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewsiro000&" alt="dewsiro000" /></p>
-
-
+ <summary><b>☄️ Github Streaks</b></summary>
+<p align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dewsiro000&hide_border=true" />
+</p>
+  
 <div align="center">
 
    <a href="https://github.com/0xabdulkhalid/">
