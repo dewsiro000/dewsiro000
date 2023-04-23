@@ -59,9 +59,11 @@
   
 <div align="center">
 <a href="https://github.com/0xabdulkhalid/">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dewsiro000&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/> -->
+
 </a>
 </div>
+                                                                                                                                                                                                                                                                                                                                    <img src="https://crafted.pl/uploads/zdjprofil/monthly_2018_12/e593ab0589d5f1b389e4dfbcce2bce20.thumb.gif.ec9ac8d8903556997c4dcbf97b2b0cfa.gif" alt="BMO" align="right" width="300" height="340" />    
+</br>
 
 <div align="center">
 
