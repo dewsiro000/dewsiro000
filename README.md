@@ -25,12 +25,23 @@
  </p>  
  <p align="left">  
 - 📫 How to reach me FB : D'ew Norawit.
- </p>  
- <p align="left">  
+ 
+  <p align="left">  
 - 👨‍💻 All of my projects are available at Github.
- </p>  
- <p align="left">  
-- 📄 Know about my experiences 
+ </p>    
+ </p>
+ 
+ <p align="left"> 
+   <p align="left">  
+  - 📄 Know about my experiences 
+   </p>
+   <details ">
+      - Internship at Intelligent Automation Research CenterIntelligent Automation Research Center (ศูนย์วิจัยระบบอัตโนมัติอัจฉริยะคณะวิศวกรรมศาสตร์ มหาวิทยาลัยสงขลานครินทร์)
+      for a period of 2 months. 
+      <br>
+     • Scope of work 
+      -> Design to make the hotel's website management system to be the most Responsive and flexible for hotels admin  to use and management of their hotels website.
+    </details>
  </p>
  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
