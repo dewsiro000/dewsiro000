@@ -35,16 +35,24 @@
    <p align="left">  
   - 📄 Know about my experiences 
    </p>
-   <details ">
+ 
+   <details class="">
       - Internship at Intelligent Automation Research CenterIntelligent Automation Research Center (ศูนย์วิจัยระบบอัตโนมัติอัจฉริยะคณะวิศวกรรมศาสตร์ มหาวิทยาลัยสงขลานครินทร์)
       for a period of 2 months. 
-      <br>
+      <br><br>
      • Scope of work 
       -> Design to make the hotel's website management system to be the most Responsive and flexible for hotels admin  to use and management of their hotels website.
-    </details>
+        <br><br>
+       ★Image Example Work
+      <p> 
+        <details>
+       <img src="Screenshot 2023-04-24 113912.png">
+        </details>
+       </p>  
+   </details> 
  </p>
  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
    
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
