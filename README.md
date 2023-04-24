@@ -37,15 +37,15 @@
    </p>
  
    <details class="">
-      - Internship at Intelligent Automation Research CenterIntelligent Automation Research Center (ศูนย์วิจัยระบบอัตโนมัติอัจฉริยะคณะวิศวกรรมศาสตร์ มหาวิทยาลัยสงขลานครินทร์)
-      for a period of 2 months. 
+      📌  ☆ Internship at Intelligent Automation Research CenterIntelligent Automation Research Center (ศูนย์วิจัยระบบอัตโนมัติอัจฉริยะคณะวิศวกรรมศาสตร์ มหาวิทยาลัยสงขลานครินทร์)
+      for a period of 2 months. ☆
       <br><br>
-     • Scope of work 
+     📉  Scope of work 
       -> Design to make the hotel's website management system to be the most Responsive and flexible for hotels admin  to use and management of their hotels website.
         <br><br>
-       ★Image Example Work
-      <p> 
-        <details>
+      📍  IMAGE Example Work.... 📍
+      <p>  
+       <details>
         <p align="left">
        <img src="Screenshot 2023-04-24 113912.png">
         </p>
