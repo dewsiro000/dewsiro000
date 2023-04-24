@@ -12,7 +12,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
   
  <p align="left">
-   -👀 I’m interested in WebShoping & Travel.
+   -👀 I’m interested in Web development. 🔜
  </p>
  <p align="left">
    -🌱 I’m currently learning ReactJs and NextJs. 
