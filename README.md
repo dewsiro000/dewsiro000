@@ -46,7 +46,12 @@
        ★Image Example Work
       <p> 
         <details>
+        <p align="left">
        <img src="Screenshot 2023-04-24 113912.png">
+        </p>
+        <p align="left"> 
+       <img src="Screenshot 2023-04-24 114027.png">
+        </p>  
         </details>
        </p>  
    </details> 
