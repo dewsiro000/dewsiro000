@@ -11,9 +11,9 @@
     <br>  
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
   
-<h4 align="left">
+ <p align="left">
    -👀 I’m interested in WebShoping & Travel.
- </h4>
+ </p>
  <p align="left">
    -🌱 I’m currently learning ReactJs and NextJs. 
  </p>
@@ -31,10 +31,12 @@
  </p>    
  </p>
  
+ <h4 align="left">
  <p align="left"> 
    <p align="left">  
   - 📄 Know about my experiences 
    </p>
+ </h4> 
  
    <details class="">
       📌  ☆ Internship at Intelligent Automation Research CenterIntelligent Automation Research Center (ศูนย์วิจัยระบบอัตโนมัติอัจฉริยะคณะวิศวกรรมศาสตร์ มหาวิทยาลัยสงขลานครินทร์)
