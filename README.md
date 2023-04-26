@@ -27,7 +27,7 @@
 - 📫 How to reach me FB : D'ew Norawit.
  
   <p align="left">  
-- 👨‍💻 All of my projects are available at Github.
+- 👨‍💻 All of my projects are available at Github.✨
  </p>    
  </p>
  
