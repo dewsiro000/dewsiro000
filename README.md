@@ -5,10 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Computer+Engineering+Student..💻;++;Self-taught+Fullstack-+Developer📌,;My+Main+language+is+React+and+Nextjs,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dewsiro000&label=Profile%20views&color=0e75b6&style=flat" alt="dewsiro000" /> </p>
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-   
-    <br>  
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
   
  <p align="left">
